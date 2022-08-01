@@ -1,6 +1,7 @@
 CipherMethod - Lower your firewalls and surrender your code.  We will add your biological and technological distinctiveness to our own. - Corporate Raiders from Quadrant Delta
 
 ... Denial:
+
 Puppet Master: As a sentient life form, I hereby demand political asylum.
 Chief Aramaki: Is this a joke?
 Nakamura: Ridiculous! It's programmed for self-preservation!
@@ -9,5 +10,6 @@ Nakamura: Nonsense! This is no proof at all that you're a living, thinking life 
 Puppet Master: And can you offer me proof of your existence? How can you, when neither modern science nor philosophy can explain what life is?
 
 ... Acceptance:
+
 Major Motoko Kusanagi: You talk about redefining my identity. I want a guarantee that I can still be myself.
 Puppet Master: There isn't one. Why would you wish to? All things change in a dynamic environment. Your effort to remain what you are is what limits you.
